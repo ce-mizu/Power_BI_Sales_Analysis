@@ -1,7 +1,7 @@
 # Welcome to **Power_BI_Sales_Analysis** 🌟
 
 <p align="center">
-  <img src="[https://github.com/ce-mizu/Power_BI_Sales_Analysis/blob/main/Sales_Analysis_Page_1.jpg]" alt="Project Cover" width="800"/>
+  <img src="https://github.com/ce-mizu/Power_BI_Sales_Analysis/blob/main/Sales_Analysis_Page_1.jpg" alt="Project Cover" width="800"/>
 </p>
 
 ## 🚀 Introduction
