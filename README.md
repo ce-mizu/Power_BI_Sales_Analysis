@@ -1,25 +1,23 @@
-# 🚧 Power_BI_Sales_Analysis - Under Construction 🚧
+# Welcome to **Power_BI_Sales_Analysis** 🌟
 
-Welcome to **Power_BI_Sales_Analysis**! This project is currently in development, and new features, functionality, and documentation are on the way.
+<p align="center">
+  <img src="[https://github.com/ce-mizu/Power_BI_Sales_Analysis/blob/main/Sales_Analysis_Page_1.jpg]" alt="Project Cover" width="800"/>
+</p>
 
-## Project Overview
+## 🚀 Introduction
 
-**Power_BI_Sales_Analysis** aims to Demonstrate the application of Power BI in a demo Databese
+**Power_BI_Sales_Analysis**! This project aims to create a dashboard for easy analysis the sales of a stores chain.
 
-## Current Status
+## 🛠️ Features
 
-This project is still in the **early development stages**. Key milestones include:
-- [x] Planning and Requirements Gathering
-- [x] Initial Setup and Configuration
-- [x] Data base files structuring
-- [ ] Structuring the Report in Power BI desktop
-- [ ] Testing and Optimization
-- [ ] Documentation
+- **Feature 1**: Dashboard - Monthly revenue data with a highlight on top 5 products and weekday metrics
+- **Feature 2**: Revenue by product - an easy way to filter and visualize revenue by product
+- **Feature 3**: Revenue Map - Interactive map for easy visualization of revenue distribution
 
-## Upcoming Features
+## 🎯 Purpose and Vision
 
-Stay tuned! Planned features include:
-- **Feature 1**: New visualizations and analysis
+The purpose of **Power_BI_Sales_Analysis** is to demonstrate the practical application of my Power BI knowledge in an everyday project.
 
-Thank you for visiting! We’re excited to share our progress with you soon.
+---
 
+Thank you for visiting! We’re excited to share my project with you.
